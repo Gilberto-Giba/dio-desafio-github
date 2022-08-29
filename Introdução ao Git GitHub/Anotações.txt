@@ -1,6 +1,12 @@
 Link para donwload do Git: https://git-scm.com/downloads
 O GitBash é um terminal extendido para otimizar o uso do Git.
+<<<<<<< HEAD
+
+Trata-se de um projeto piloto
+Pasta primária
+=======
 Trata-se de um projeto piloto.
 
 Primeiro projeto.
+>>>>>>> 151adf2778937080a405e3e2f1ea5fa29c5057b3
 
